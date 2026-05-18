@@ -1,4 +1,5 @@
-# git-front 🚀
+# git-front 
+# aws 연동예정임.
 
 **Git에 저장된 프로젝트를 Docker로 컨테이너화하여 AWS에 자동 배포하는 시스템**
 
